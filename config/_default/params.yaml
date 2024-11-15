@@ -35,7 +35,9 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Debashis Dhali"
+      weight: 60
+     
 
 # Site footer
 footer:
@@ -58,3 +60,5 @@ features:
     enable: false
   privacy_pack:
     enable: false
+
+

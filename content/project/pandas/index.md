@@ -1,13 +1,15 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Soulemate Clock
+date: 2024-09-27
+external_link: https://soulmateclock.netlify.app/
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - JavaScript
+  - Frontend Development
+  - UI/UX Design
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+An analog clock app designed to provide the perfect time with a clean, sleek interface. Built with a focus on user experience and design, Soulemate Clock ensures precise timekeeping while offering a visually appealing and intuitive interface.
+
+![Soulemate Clock](soulemate-clock.png)
 
 <!--more-->

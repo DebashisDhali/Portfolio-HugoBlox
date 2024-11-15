@@ -1,13 +1,18 @@
 ---
-title: PyTorch
+title: FindGithubProfile
 date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+external_link: https://githubprosearch.netlify.app/
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - GitHub API
+  - Web Development
+  - JavaScript
+  - HTML
+  - CSS
+  - API Integration
+  - Frontend
+  - User Interface
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+My project lets users search for any GitHub account by entering a username in the search bar. It fetches data from the GitHub API, displaying key info like the profile picture, name, bio, and repositories in a card. A 'View Profile' button allows users to quickly access the full GitHub profile.
 
 <!--more-->

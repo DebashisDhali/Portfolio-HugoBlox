@@ -1,13 +1,16 @@
 ---
-title: scikit-learn
+title: HTML and CSS Projects
 date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+external_link: https://10htmlcssprojects.netlify.app/
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - HTML
+  - CSS
+  - Web Development
+  - Frontend
+  - UI Design
+  - Responsive Design
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+This repository showcases 10 unique projects developed using HTML and CSS. Each project highlights different aspects of frontend design and layout, ranging from responsive web pages to custom UI components.
 
 <!--more-->

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo Academic CV Theme</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Hugo Academic CV Theme</title>
+      <link>http://localhost:1313/</link>
+    </image>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h2 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h2&gt;
+&lt;p&gt;Thank you for visiting my portfolio! If you’d like to reach out, ask questions, or collaborate on projects, please feel free to contact me through the form below. I look forward to hearing from you!&lt;/p&gt;
+&lt;p&gt;Please fill out the form, and I&amp;rsquo;ll get back to you as soon as possible.&lt;/p&gt;
+&lt;form action=&#34;your-backend-endpoint&#34; method=&#34;POST&#34; id=&#34;contact-form&#34;&gt;
+  &lt;div class=&#34;form-group&#34;&gt;
+    &lt;label for=&#34;name&#34;&gt;Name&lt;/label&gt;
+    &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; placeholder=&#34;Your Name&#34; required&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;form-group&#34;&gt;
+    &lt;label for=&#34;email&#34;&gt;Email&lt;/label&gt;
+    &lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; placeholder=&#34;Your Email&#34; required&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;form-group&#34;&gt;
+    &lt;label for=&#34;message&#34;&gt;Message&lt;/label&gt;
+    &lt;textarea id=&#34;message&#34; name=&#34;message&#34; placeholder=&#34;Your Message&#34; rows=&#34;4&#34; required&gt;&lt;/textarea&gt;
+  &lt;/div&gt;
+&lt;p&gt;&lt;button type=&#34;submit&#34; class=&#34;submit-button&#34;&gt;Send Message&lt;/button&gt;&lt;/p&gt;
+&lt;/form&gt;
+&lt;h3 id=&#34;alternatively-you-can-reach-me-via&#34;&gt;Alternatively, You Can Reach Me Via:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:dhalideba387@gmail.com&#34;&gt;dhalideba387@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://linkedin.com/in/your-profile&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;linkedin.com/in/debashis-dhali-3390442a0/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/DebashisDhali&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github.com/DebashisDhali&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Feel free to connect with me through any of the above channels. I’m excited to hear from you!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;h3 id=&#34;view-resume&#34;&gt;View Resume&lt;/h3&gt;
+&lt;iframe src=&#34;http://localhost:1313/files/resume.pdf&#34; width=&#34;150%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
+&lt;h3 id=&#34;download-resume&#34;&gt;Download Resume&lt;/h3&gt;
+&lt;p&gt;If you&amp;rsquo;d like to download the resume, click the button below:&lt;/p&gt;
+&lt;a href=&#34;http://localhost:1313/files/resume.pdf&#34; download=&#34;My-Resume.pdf&#34;&gt;
+  &lt;button class=&#34;download-btn&#34;&gt;Download Resume&lt;/button&gt;
+&lt;/a&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Soulemate Clock</title>
+      <link>http://localhost:1313/project/pandas/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pandas/</guid>
+      <description>&lt;p&gt;An analog clock app designed to provide the perfect time with a clean, sleek interface. Built with a focus on user experience and design, Soulemate Clock ensures precise timekeeping while offering a visually appealing and intuitive interface.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;soulemate-clock.png&#34; alt=&#34;Soulemate Clock&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FindGithubProfile</title>
+      <link>http://localhost:1313/project/pytorch/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pytorch/</guid>
+      <description>&lt;p&gt;My project lets users search for any GitHub account by entering a username in the search bar. It fetches data from the GitHub API, displaying key info like the profile picture, name, bio, and repositories in a card. A &amp;lsquo;View Profile&amp;rsquo; button allows users to quickly access the full GitHub profile.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>HTML and CSS Projects</title>
+      <link>http://localhost:1313/project/scikit/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/scikit/</guid>
+      <description>&lt;p&gt;This repository showcases 10 unique projects developed using HTML and CSS. Each project highlights different aspects of frontend design and layout, ranging from responsive web pages to custom UI components.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>http://localhost:1313/experience/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,125 +1,82 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2024-11-11
 type: landing
 
 design:
   # Default section spacing
-  spacing: "6rem"
+  spacing: "4rem"
+  padding: ["4rem", "4rem", "4rem", "4rem"]  # Top and bottom padding 0, left and right padding 2rem
 
 sections:
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+      username: 
       text: ""
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
     design:
-      css_class: dark
-      background:
-        color: black
-        image:
+      columns: "1"
+      css_class: gray
+      background: 
+        color: 
+        image: 
+          # assets/media/debashis.jpg
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
           filters:
             brightness: 1.0
           size: cover
           position: center
           parallax: false
+
   - block: markdown
     content:
-      title: '📚 My Research'
-      subtitle: ''
+      title: "🌱 About Me"
+      subtitle: ""
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Hello! I'm **Debashis Dhali**, a Computer Science and Engineering student at Jahangirnagar University with a strong passion for becoming a full-stack developer. Currently, I'm in my third year, dedicating myself to mastering both frontend and backend development. My journey began with HTML, CSS, and JavaScript, and now I'm diving deeper into **React.js** and **IoT** development.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My recent projects include automating systems, building IoT solutions to enhance agriculture and water monitoring, and tackling problem-solving challenges on platforms like Codeforces. I love exploring new technologies and am always looking for innovative ways to apply my skills.
         
-        Please reach out to collaborate 😃
+        I’d love to connect and collaborate on impactful projects!
     design:
-      columns: '1'
+      columns: "1"
+
+
   - block: collection
-    id: papers
+    id: blog
     content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
-  - block: collection
-    id: news
-    content:
-      title: Recent News
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
+      title: Blog Posts
+      subtitle: ""
+      text: "**Title: My Tech Journey: From Development to IoT Solutions**
+
+       Hi, I’m Debashis Dhali, a 23-year-old Computer Science student at Jahangirnagar University. Starting with frontend development—HTML, CSS, JavaScript, and React—my goal is to become a full-stack developer, hopefully at Google. To get there, I’m following a structured roadmap to deepen my skills across all aspects of web development.
+
+       Beyond coding, I’m diving into IoT with projects aimed at solving local issues. Inspired by Bangladesh’s “More Fish” project, I’m working on a device to monitor water quality in ponds, helping fish farmers increase yields. Another project automates the pre-exam process at my university, reducing time and effort for students through online applications and mobile banking.
+
+       As I grow technically, I’m also committed to self-improvement, focusing on discipline and health. I document my journey through YouTube and blogging, sharing insights as I learn. Each project and challenge brings me closer to my vision of using tech to make a difference!"
       page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
       count: 5
-      # Filter on criteria
       filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
+        author: "Debashis Dhali"
       order: desc
     design:
-      # Choose a layout view
       view: date-title-summary
-      # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+
   - block: cta-card
-    demo: true # Only display this section in the Hugo Blox Builder demo site
+    demo: false
     content:
-      title: 👉 Build your own academic website like this
+      title: "💡 Let’s Build Something Amazing Together"
       text: |-
-        This site is generated by Hugo Blox Builder - the FREE, Hugo-based open source website builder trusted by 250,000+ academics like you.
-
-        <a class="github-button" href="https://github.com/HugoBlox/hugo-blox-builder" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">Star</a>
-
-        Easily build anything with blocks - no-code required!
-        
-        From landing pages, second brains, and courses to academic resumés, conferences, and tech blogs.
+        I'm always open to collaborations, whether for full-stack projects, IoT innovations, or tackling real-world challenges with tech. Feel free to reach out if you have an idea or project in mind!
       button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+        text: Contact Me
+        url: /contact
     design:
       card:
-        # Card background color (CSS class)
         css_class: "bg-primary-700"
         css_style: ""
 ---
