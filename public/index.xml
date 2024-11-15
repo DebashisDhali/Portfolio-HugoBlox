@@ -51,10 +51,10 @@
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cv/</guid>
       <description>&lt;h3 id=&#34;view-resume&#34;&gt;View Resume&lt;/h3&gt;
-&lt;iframe src=&#34;http://localhost:1313/files/resume.pdf&#34; width=&#34;150%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
+&lt;iframe src=&#34;http://localhost:1313/resume.pdf&#34; width=&#34;150%&#34; height=&#34;600px&#34;&gt;&lt;/iframe&gt;
 &lt;h3 id=&#34;download-resume&#34;&gt;Download Resume&lt;/h3&gt;
 &lt;p&gt;If you&amp;rsquo;d like to download the resume, click the button below:&lt;/p&gt;
-&lt;a href=&#34;http://localhost:1313/files/resume.pdf&#34; download=&#34;My-Resume.pdf&#34;&gt;
+&lt;a href=&#34;http://localhost:1313/resume.pdf&#34; download=&#34;My-Resume.pdf&#34;&gt;
   &lt;button class=&#34;download-btn&#34;&gt;Download Resume&lt;/button&gt;
 &lt;/a&gt;
 </description>
