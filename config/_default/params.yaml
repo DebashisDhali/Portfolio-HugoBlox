@@ -35,14 +35,16 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Debashis Dhali"
-      weight: 60
+      url: avatar.jpg
+      text: "D.D"
+      weight: 40
+      font-size: 44px  # Increased font size
      
 
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Debashis Dhali.'
     license:
       enable: true
       allow_derivatives: false
@@ -60,5 +62,4 @@ features:
     enable: false
   privacy_pack:
     enable: false
-
 

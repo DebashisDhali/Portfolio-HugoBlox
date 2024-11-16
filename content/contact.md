@@ -4,11 +4,6 @@ date: 2024-11-14
 type: "contact"
 ---
 
-## Get in Touch
-
-Thank you for visiting my portfolio! If you’d like to reach out, ask questions, or collaborate on projects, please feel free to contact me through the form below. I look forward to hearing from you!
-
-
 
 Please fill out the form, and I'll get back to you as soon as possible.
 
