@@ -37,7 +37,7 @@ header:
     logo:
       url: avatar.jpg
       text: "D.D"
-      weight: 40
+      weight: 30
       font-size: 44px  # Increased font size
      
 

@@ -34,11 +34,7 @@ profiles:
     url: https://github.com/DebashisDhali
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/debashis-dhali-3390442a0/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
-
+ 
 interests:
   - Web Development (Frontend & Backend)
    - Artificial Intelligence

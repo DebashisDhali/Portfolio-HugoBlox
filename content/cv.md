@@ -4,9 +4,8 @@ title: "Resume"
 
 ### View Resume
 
-<iframe src="/resume.pdf" width="100%" height="600px" style="border: none;">
-    Your browser does not support viewing PDFs. 
-    <a href="/resume.pdf">Download Resume</a>
+<iframe src="/resume.pdf" width="100%" height="600px">
+   
 </iframe>
 
 ### Download Resume

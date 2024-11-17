@@ -1,10 +1,3 @@
----
-title: "Contact"
-date: 2024-11-14
-type: "contact"
----
-
-
 Please fill out the form, and I'll get back to you as soon as possible.
 
 <form action="your-backend-endpoint" method="POST" id="contact-form">

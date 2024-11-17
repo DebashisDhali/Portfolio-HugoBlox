@@ -1,47 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Academic CV Theme</title>
+    <title>Debashis&#39;s Portfolio</title>
     <link>http://localhost:1313/</link>
       <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <description>Hugo Academic CV Theme</description>
+    <description>Debashis&#39;s Portfolio</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
-      <title>Hugo Academic CV Theme</title>
+      <title>Debashis&#39;s Portfolio</title>
       <link>http://localhost:1313/</link>
     </image>
-    
-    <item>
-      <title>Contact</title>
-      <link>http://localhost:1313/contact/</link>
-      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/contact/</guid>
-      <description>&lt;p&gt;Please fill out the form, and I&amp;rsquo;ll get back to you as soon as possible.&lt;/p&gt;
-&lt;form action=&#34;your-backend-endpoint&#34; method=&#34;POST&#34; id=&#34;contact-form&#34;&gt;
-  &lt;div class=&#34;form-group&#34;&gt;
-    &lt;label for=&#34;name&#34;&gt;Name&lt;/label&gt;
-    &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; placeholder=&#34;Your Name&#34; required&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;form-group&#34;&gt;
-    &lt;label for=&#34;email&#34;&gt;Email&lt;/label&gt;
-    &lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; placeholder=&#34;Your Email&#34; required&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;form-group&#34;&gt;
-    &lt;label for=&#34;message&#34;&gt;Message&lt;/label&gt;
-    &lt;textarea id=&#34;message&#34; name=&#34;message&#34; placeholder=&#34;Your Message&#34; rows=&#34;4&#34; required&gt;&lt;/textarea&gt;
-  &lt;/div&gt;
-&lt;p&gt;&lt;button type=&#34;submit&#34; class=&#34;submit-button&#34;&gt;Send Message&lt;/button&gt;&lt;/p&gt;
-&lt;/form&gt;
-&lt;h3 id=&#34;alternatively-you-can-reach-me-via&#34;&gt;Alternatively, You Can Reach Me Via:&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:dhalideba387@gmail.com&#34;&gt;dhalideba387@gmail.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://linkedin.com/in/your-profile&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;linkedin.com/in/debashis-dhali-3390442a0/&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/DebashisDhali&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github.com/DebashisDhali&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Feel free to connect with me through any of the above channels. I’m excited to hear from you!&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Soulemate Clock</title>
@@ -102,6 +71,37 @@
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/experience/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;Please fill out the form, and I&amp;rsquo;ll get back to you as soon as possible.&lt;/p&gt;
+&lt;form action=&#34;your-backend-endpoint&#34; method=&#34;POST&#34; id=&#34;contact-form&#34;&gt;
+  &lt;div class=&#34;form-group&#34;&gt;
+    &lt;label for=&#34;name&#34;&gt;Name&lt;/label&gt;
+    &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; placeholder=&#34;Your Name&#34; required&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;form-group&#34;&gt;
+    &lt;label for=&#34;email&#34;&gt;Email&lt;/label&gt;
+    &lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; placeholder=&#34;Your Email&#34; required&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;form-group&#34;&gt;
+    &lt;label for=&#34;message&#34;&gt;Message&lt;/label&gt;
+    &lt;textarea id=&#34;message&#34; name=&#34;message&#34; placeholder=&#34;Your Message&#34; rows=&#34;4&#34; required&gt;&lt;/textarea&gt;
+  &lt;/div&gt;
+&lt;p&gt;&lt;button type=&#34;submit&#34; class=&#34;submit-button&#34;&gt;Send Message&lt;/button&gt;&lt;/p&gt;
+&lt;/form&gt;
+&lt;h3 id=&#34;alternatively-you-can-reach-me-via&#34;&gt;Alternatively, You Can Reach Me Via:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:dhalideba387@gmail.com&#34;&gt;dhalideba387@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://linkedin.com/in/your-profile&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;linkedin.com/in/debashis-dhali-3390442a0/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/DebashisDhali&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github.com/DebashisDhali&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Feel free to connect with me through any of the above channels. I’m excited to hear from you!&lt;/p&gt;
+</description>
     </item>
     
     <item>
