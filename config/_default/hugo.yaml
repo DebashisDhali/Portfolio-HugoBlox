@@ -22,8 +22,8 @@ removePathAccents: true
 ############################
 
 build:
-  writeStats: true
-enableGitInfo: false
+  writeStats: 
+enableGitInfo: 
 summaryLength: 30
 pagination:
   pagerSize: 10
