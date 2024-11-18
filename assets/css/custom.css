@@ -36,3 +36,12 @@
     background-color: #0056b3;
   }
   
+
+  body {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .navbar-logo {
+    font-family: 'Roboto', sans-serif;
+  }
+  
