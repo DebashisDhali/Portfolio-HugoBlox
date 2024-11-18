@@ -139,7 +139,13 @@ awards:
     icon: freecodecamp
     summary: |
       Mastered various algorithms and data structures in JavaScript, solving complex challenges and building problem-solving skills.
-
+  - title: "Responsive Web Design"
+    url: https://www.freecodecamp.org/certification/DhaliDeba387/responsive-web-design
+    date: '2023-10-01'
+    awarder: freeCodeCamp
+    icon: freecodecamp
+    summary: |
+      Earned a certificate in Responsive Web Design, gaining expertise in building modern, user-friendly, and mobile-first websites.
 ---
 
 ## About Me
