@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Web Development | Debashis&#39;s Portfolio</title>
-    <link>http://localhost:1313/tags/web-development/</link>
-      <atom:link href="http://localhost:1313/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://debashisdhali.github.io/Portfolio-HugoBlox/tags/web-development/</link>
+      <atom:link href="https://debashisdhali.github.io/Portfolio-HugoBlox/tags/web-development/index.xml" rel="self" type="application/rss+xml" />
     <description>Web Development</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://debashisdhali.github.io/Portfolio-HugoBlox/media/icon_hu7729264130191091259.png</url>
       <title>Web Development</title>
-      <link>http://localhost:1313/tags/web-development/</link>
+      <link>https://debashisdhali.github.io/Portfolio-HugoBlox/tags/web-development/</link>
     </image>
     
     <item>
       <title>FindGithubProfile</title>
-      <link>http://localhost:1313/project/pytorch/</link>
+      <link>https://debashisdhali.github.io/Portfolio-HugoBlox/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/pytorch/</guid>
+      <guid>https://debashisdhali.github.io/Portfolio-HugoBlox/project/pytorch/</guid>
       <description>&lt;p&gt;My project lets users search for any GitHub account by entering a username in the search bar. It fetches data from the GitHub API, displaying key info like the profile picture, name, bio, and repositories in a card. A &amp;lsquo;View Profile&amp;rsquo; button allows users to quickly access the full GitHub profile.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>HTML and CSS Projects</title>
-      <link>http://localhost:1313/project/scikit/</link>
+      <link>https://debashisdhali.github.io/Portfolio-HugoBlox/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/scikit/</guid>
+      <guid>https://debashisdhali.github.io/Portfolio-HugoBlox/project/scikit/</guid>
       <description>&lt;p&gt;This repository showcases 10 unique projects developed using HTML and CSS. Each project highlights different aspects of frontend design and layout, ranging from responsive web pages to custom UI components.&lt;/p&gt;</description>
     </item>
     

@@ -6,7 +6,7 @@
 # Website name
 title: Debashis's Portfolio
 # Website URL
-baseURL: 'http://localhost:1313/'
+baseURL: 'https://debashisdhali.github.io/Portfolio-HugoBlox/'
 
 ############################
 ## LANGUAGE
