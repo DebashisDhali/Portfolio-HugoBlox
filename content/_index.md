@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "4rem"
+  spacing: "3rem"
   padding: ["4rem", "4rem", "4rem", "4rem"]  # Top and bottom padding 0, left and right padding 2rem
 
 sections:

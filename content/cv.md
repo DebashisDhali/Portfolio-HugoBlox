@@ -1,12 +1,7 @@
----
-title: "Resume"
----
 
-### View Resume
-
-<iframe src="/resume.pdf" width="100%" height="600px">
+<!-- <iframe src="/resume.pdf" width="100%" height="600px" alt="cv">
    
-</iframe>
+</iframe> -->
 
 ### Download Resume
 
