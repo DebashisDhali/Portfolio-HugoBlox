@@ -62,7 +62,7 @@ sections:
         I'm always open to collaborations, whether for full-stack projects, IoT innovations, or tackling real-world challenges with tech. Feel free to reach out if you have an idea or project in mind!
       button:
         text: Contact Me
-        url: /contact
+        url: contact/
     design:
       card:
         css_class: "bg-primary-700"
