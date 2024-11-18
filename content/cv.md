@@ -1,5 +1,5 @@
 
-<iframe src="https://github.com/DebashisDhali/Projects-Front-Image/blob/main/resume.pdf" width="100%" height="600px" alt="cv">
+<iframe src="https://drive.google.com/file/d/1F4dYe7LBMw8XHEX46rwgkeUDbtKdM87k/view?usp=drive_link" width="100%" height="600px" >
    
 </iframe>
 
@@ -7,6 +7,6 @@
 
 If you'd like to download the resume, click the button below:
 
-<a href="https://github.com/DebashisDhali/Projects-Front-Image/blob/main/resume.pdf" download>
+<a href="https://drive.google.com/file/d/1F4dYe7LBMw8XHEX46rwgkeUDbtKdM87k/view?usp=drive_link" download>
   <button class="download-btn">Download Resume</button>
 </a>

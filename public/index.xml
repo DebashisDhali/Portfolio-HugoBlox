@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Debashis&#39;s Portfolio</title>
-    <link>https://debashisdhali.github.io/Portfolio-HugoBlox/</link>
-      <atom:link href="https://debashisdhali.github.io/Portfolio-HugoBlox/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/Portfolio-HugoBlox/</link>
+      <atom:link href="http://localhost:1313/Portfolio-HugoBlox/index.xml" rel="self" type="application/rss+xml" />
     <description>Debashis&#39;s Portfolio</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://debashisdhali.github.io/Portfolio-HugoBlox/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/Portfolio-HugoBlox/media/icon_hu7729264130191091259.png</url>
       <title>Debashis&#39;s Portfolio</title>
-      <link>https://debashisdhali.github.io/Portfolio-HugoBlox/</link>
+      <link>http://localhost:1313/Portfolio-HugoBlox/</link>
     </image>
     
     <item>
       <title>Contact</title>
-      <link>https://debashisdhali.github.io/Portfolio-HugoBlox/contact/</link>
+      <link>http://localhost:1313/Portfolio-HugoBlox/contact/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://debashisdhali.github.io/Portfolio-HugoBlox/contact/</guid>
+      <guid>http://localhost:1313/Portfolio-HugoBlox/contact/</guid>
       <description>&lt;p&gt;Please fill out the form, and I&amp;rsquo;ll get back to you as soon as possible.&lt;/p&gt;
 &lt;form action=&#34;your-backend-endpoint&#34; method=&#34;POST&#34; id=&#34;contact-form&#34;&gt;
   &lt;div class=&#34;form-group&#34;&gt;
@@ -45,55 +45,54 @@
     
     <item>
       <title>Soulemate Clock</title>
-      <link>https://debashisdhali.github.io/Portfolio-HugoBlox/project/pandas/</link>
+      <link>http://localhost:1313/Portfolio-HugoBlox/project/pandas/</link>
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://debashisdhali.github.io/Portfolio-HugoBlox/project/pandas/</guid>
+      <guid>http://localhost:1313/Portfolio-HugoBlox/project/pandas/</guid>
       <description>&lt;p&gt;An analog clock app designed to provide the perfect time with a clean, sleek interface. Built with a focus on user experience and design, Soulemate Clock ensures precise timekeeping while offering a visually appealing and intuitive interface.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://debashisdhali.github.io/Portfolio-HugoBlox/projects/</link>
+      <link>http://localhost:1313/Portfolio-HugoBlox/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://debashisdhali.github.io/Portfolio-HugoBlox/projects/</guid>
+      <guid>http://localhost:1313/Portfolio-HugoBlox/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FindGithubProfile</title>
-      <link>https://debashisdhali.github.io/Portfolio-HugoBlox/project/pytorch/</link>
+      <link>http://localhost:1313/Portfolio-HugoBlox/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://debashisdhali.github.io/Portfolio-HugoBlox/project/pytorch/</guid>
+      <guid>http://localhost:1313/Portfolio-HugoBlox/project/pytorch/</guid>
       <description>&lt;p&gt;My project lets users search for any GitHub account by entering a username in the search bar. It fetches data from the GitHub API, displaying key info like the profile picture, name, bio, and repositories in a card. A &amp;lsquo;View Profile&amp;rsquo; button allows users to quickly access the full GitHub profile.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>HTML and CSS Projects</title>
-      <link>https://debashisdhali.github.io/Portfolio-HugoBlox/project/scikit/</link>
+      <link>http://localhost:1313/Portfolio-HugoBlox/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://debashisdhali.github.io/Portfolio-HugoBlox/project/scikit/</guid>
+      <guid>http://localhost:1313/Portfolio-HugoBlox/project/scikit/</guid>
       <description>&lt;p&gt;This repository showcases 10 unique projects developed using HTML and CSS. Each project highlights different aspects of frontend design and layout, ranging from responsive web pages to custom UI components.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Experience</title>
-      <link>https://debashisdhali.github.io/Portfolio-HugoBlox/experience/</link>
+      <link>http://localhost:1313/Portfolio-HugoBlox/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://debashisdhali.github.io/Portfolio-HugoBlox/experience/</guid>
+      <guid>http://localhost:1313/Portfolio-HugoBlox/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://debashisdhali.github.io/Portfolio-HugoBlox/cv/</link>
+      <link>http://localhost:1313/Portfolio-HugoBlox/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://debashisdhali.github.io/Portfolio-HugoBlox/cv/</guid>
-      <description>&lt;!-- &lt;iframe src=&#34;https://debashisdhali.github.io/Portfolio-HugoBlox/resume.pdf&#34; width=&#34;100%&#34; height=&#34;600px&#34; alt=&#34;cv&#34;&gt;
-   
-&lt;/iframe&gt; --&gt;
+      <guid>http://localhost:1313/Portfolio-HugoBlox/cv/</guid>
+      <description>&lt;iframe src=&#34;https://drive.google.com/file/d/1F4dYe7LBMw8XHEX46rwgkeUDbtKdM87k/view?usp=drive_link&#34; width=&#34;100%&#34; height=&#34;600px&#34; &gt;
+&lt;/iframe&gt;
 &lt;h3 id=&#34;download-resume&#34;&gt;Download Resume&lt;/h3&gt;
 &lt;p&gt;If you&amp;rsquo;d like to download the resume, click the button below:&lt;/p&gt;
-&lt;a href=&#34;https://debashisdhali.github.io/Portfolio-HugoBlox/resume.pdf&#34; download&gt;
+&lt;a href=&#34;https://drive.google.com/file/d/1F4dYe7LBMw8XHEX46rwgkeUDbtKdM87k/view?usp=drive_link&#34; download&gt;
   &lt;button class=&#34;download-btn&#34;&gt;Download Resume&lt;/button&gt;
 &lt;/a&gt;
 </description>

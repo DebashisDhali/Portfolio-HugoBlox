@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Responsive Design | Debashis&#39;s Portfolio</title>
-    <link>https://debashisdhali.github.io/Portfolio-HugoBlox/tags/responsive-design/</link>
-      <atom:link href="https://debashisdhali.github.io/Portfolio-HugoBlox/tags/responsive-design/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/Portfolio-HugoBlox/tags/responsive-design/</link>
+      <atom:link href="http://localhost:1313/Portfolio-HugoBlox/tags/responsive-design/index.xml" rel="self" type="application/rss+xml" />
     <description>Responsive Design</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://debashisdhali.github.io/Portfolio-HugoBlox/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/Portfolio-HugoBlox/media/icon_hu7729264130191091259.png</url>
       <title>Responsive Design</title>
-      <link>https://debashisdhali.github.io/Portfolio-HugoBlox/tags/responsive-design/</link>
+      <link>http://localhost:1313/Portfolio-HugoBlox/tags/responsive-design/</link>
     </image>
     
     <item>
       <title>HTML and CSS Projects</title>
-      <link>https://debashisdhali.github.io/Portfolio-HugoBlox/project/scikit/</link>
+      <link>http://localhost:1313/Portfolio-HugoBlox/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://debashisdhali.github.io/Portfolio-HugoBlox/project/scikit/</guid>
+      <guid>http://localhost:1313/Portfolio-HugoBlox/project/scikit/</guid>
       <description>&lt;p&gt;This repository showcases 10 unique projects developed using HTML and CSS. Each project highlights different aspects of frontend design and layout, ranging from responsive web pages to custom UI components.&lt;/p&gt;</description>
     </item>
     
