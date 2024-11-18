@@ -1,7 +1,7 @@
 
-<!-- <iframe src="/resume.pdf" width="100%" height="600px" alt="cv">
+<iframe src="/resume.pdf" width="100%" height="600px" alt="cv">
    
-</iframe> -->
+</iframe>
 
 ### Download Resume
 
