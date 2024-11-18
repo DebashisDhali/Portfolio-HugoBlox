@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: "5rem"
+  spacing: "6rem"
   padding: ["4rem", "4rem", "4rem", "4rem"]  # Top and bottom padding 0, left and right padding 2rem
 
 sections:
@@ -30,19 +30,7 @@ sections:
           position: center
           parallax: false
 
-  - block: markdown
-    content:
-      title: "🌱 About Me"
-      subtitle: ""
-      text: |-
-        Hello! I'm **Debashis Dhali**, a Computer Science and Engineering student at Jahangirnagar University with a strong passion for becoming a full-stack developer. Currently, I'm in my third year, dedicating myself to mastering both frontend and backend development. My journey began with HTML, CSS, and JavaScript, and now I'm diving deeper into **React.js** and **IoT** development.
-
-        My recent projects include automating systems, building IoT solutions to enhance agriculture and water monitoring, and tackling problem-solving challenges on platforms like Codeforces. I love exploring new technologies and am always looking for innovative ways to apply my skills.
-        
-        I’d love to connect and collaborate on impactful projects!
-    design:
-      columns: "1"
-
+  
 
   - block: collection
     id: blog
