@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical Documentation | Debashis&#39;s Portfolio</title>
+    <link>http://localhost:1313/Portfolio-HugoBlox/tags/technical-documentation/</link>
+      <atom:link href="http://localhost:1313/Portfolio-HugoBlox/tags/technical-documentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Technical Documentation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/Portfolio-HugoBlox/media/icon_hu7729264130191091259.png</url>
+      <title>Technical Documentation</title>
+      <link>http://localhost:1313/Portfolio-HugoBlox/tags/technical-documentation/</link>
+    </image>
+    
+    <item>
+      <title>Technical Documentation Page</title>
+      <link>http://localhost:1313/Portfolio-HugoBlox/project/t_c_p/</link>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Portfolio-HugoBlox/project/t_c_p/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Technical Documentation Page&lt;/strong&gt; is a project I completed as part of the FreeCodeCamp Responsive Web Design certification. It focuses on creating a user-friendly and organized documentation page for a technical subject.&lt;/p&gt;
+&lt;p&gt;Key features include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;: A navigation bar that allows users to easily jump to different sections of the documentation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Code Examples&lt;/strong&gt;: Clear and readable code snippets displayed in proper syntax highlighting.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Responsive Layout&lt;/strong&gt;: Ensures the page is fully optimized for viewing across a variety of devices, from mobile to desktop.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clear Sectioning&lt;/strong&gt;: Properly structured sections for each topic, making it easy for users to find information.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The page is built using &lt;strong&gt;HTML&lt;/strong&gt; and &lt;strong&gt;CSS&lt;/strong&gt;, with a focus on accessibility, readability, and clear organization.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tribute Page | Debashis&#39;s Portfolio</title>
+    <link>http://localhost:1313/Portfolio-HugoBlox/tags/tribute-page/</link>
+      <atom:link href="http://localhost:1313/Portfolio-HugoBlox/tags/tribute-page/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tribute Page</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/Portfolio-HugoBlox/media/icon_hu7729264130191091259.png</url>
+      <title>Tribute Page</title>
+      <link>http://localhost:1313/Portfolio-HugoBlox/tags/tribute-page/</link>
+    </image>
+    
+    <item>
+      <title>FreeCodeCamp Tribute Page</title>
+      <link>http://localhost:1313/Portfolio-HugoBlox/project/tribute_page/</link>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Portfolio-HugoBlox/project/tribute_page/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Tribute Page&lt;/strong&gt; is a project I completed as part of the FreeCodeCamp Responsive Web Design certification. It focuses on creating a visually appealing page dedicated to honoring a person or a cause.&lt;/p&gt;
+&lt;p&gt;Key features include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Personalized Design&lt;/strong&gt;: A clean, visually engaging design that highlights the person or cause being honored.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Responsive Layout&lt;/strong&gt;: Ensures the page displays properly on all devices, from mobile to desktop.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Content Sections&lt;/strong&gt;: Includes sections like biography, images, and achievements that provide a comprehensive overview.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multimedia&lt;/strong&gt;: Incorporates images and links to enhance the user experience and provide more context.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The page is built using &lt;strong&gt;HTML&lt;/strong&gt; and &lt;strong&gt;CSS&lt;/strong&gt;, with an emphasis on clean design and ensuring that the content is easy to read and navigate.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

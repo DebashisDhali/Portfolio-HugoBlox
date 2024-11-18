@@ -5,12 +5,28 @@
     <link>http://localhost:1313/Portfolio-HugoBlox/tags/responsive-design/</link>
       <atom:link href="http://localhost:1313/Portfolio-HugoBlox/tags/responsive-design/index.xml" rel="self" type="application/rss+xml" />
     <description>Responsive Design</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/Portfolio-HugoBlox/media/icon_hu7729264130191091259.png</url>
       <title>Responsive Design</title>
       <link>http://localhost:1313/Portfolio-HugoBlox/tags/responsive-design/</link>
     </image>
+    
+    <item>
+      <title>Responsive Portfolio</title>
+      <link>http://localhost:1313/Portfolio-HugoBlox/project/portfolio/</link>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Portfolio-HugoBlox/project/portfolio/</guid>
+      <description>&lt;p&gt;My &lt;strong&gt;Responsive Web Design Portfolio&lt;/strong&gt; is a project I created as part of the FreeCodeCamp Responsive Web Design certification. It showcases my skills and projects in a clean, modern, and fully responsive design.&lt;/p&gt;
+&lt;p&gt;Key features include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Responsive Layout&lt;/strong&gt;: Optimized for all device sizes, from mobile to desktop.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;About Me Section&lt;/strong&gt;: Highlights my background, skills, and passion for web development.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Projects Gallery&lt;/strong&gt;: Displays my work with project descriptions and links.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contact Section&lt;/strong&gt;: Easy-to-use form for connecting with me.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The portfolio demonstrates my ability to build responsive, user-friendly websites using &lt;strong&gt;HTML&lt;/strong&gt; and &lt;strong&gt;CSS&lt;/strong&gt;, adhering to clean coding practices and excellent design principles.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>HTML and CSS Projects</title>

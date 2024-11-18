@@ -6,6 +6,70 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/Portfolio-HugoBlox/tags/css/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio-HugoBlox/project/tribute_page/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio-HugoBlox/tags/html/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio-HugoBlox/tags/product-landing-page/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio-HugoBlox/project/productlanding/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio-HugoBlox/project/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio-HugoBlox/tags/responsive-design/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio-HugoBlox/project/portfolio/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio-HugoBlox/tags/survey-form/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio-HugoBlox/project/survey_form/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio-HugoBlox/tags/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio-HugoBlox/tags/technical-documentation/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio-HugoBlox/project/t_c_p/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio-HugoBlox/tags/tribute-page/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio-HugoBlox/tags/user-interface/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/Portfolio-HugoBlox/tags/web-development/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/Portfolio-HugoBlox/contact/</loc>
     <lastmod>2024-11-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -22,15 +86,7 @@
     <lastmod>2024-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/Portfolio-HugoBlox/project/</loc>
-    <lastmod>2024-09-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/Portfolio-HugoBlox/project/pandas/</loc>
-    <lastmod>2024-09-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/Portfolio-HugoBlox/tags/</loc>
     <lastmod>2024-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -46,10 +102,6 @@
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/Portfolio-HugoBlox/tags/css/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/Portfolio-HugoBlox/project/pytorch/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -62,27 +114,11 @@
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/Portfolio-HugoBlox/tags/html/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/Portfolio-HugoBlox/project/scikit/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/Portfolio-HugoBlox/tags/responsive-design/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/Portfolio-HugoBlox/tags/ui-design/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/Portfolio-HugoBlox/tags/user-interface/</loc>
-    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/Portfolio-HugoBlox/tags/web-development/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

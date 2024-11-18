@@ -5,12 +5,92 @@
     <link>http://localhost:1313/Portfolio-HugoBlox/tags/css/</link>
       <atom:link href="http://localhost:1313/Portfolio-HugoBlox/tags/css/index.xml" rel="self" type="application/rss+xml" />
     <description>CSS</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/Portfolio-HugoBlox/media/icon_hu7729264130191091259.png</url>
       <title>CSS</title>
       <link>http://localhost:1313/Portfolio-HugoBlox/tags/css/</link>
     </image>
+    
+    <item>
+      <title>FreeCodeCamp Tribute Page</title>
+      <link>http://localhost:1313/Portfolio-HugoBlox/project/tribute_page/</link>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Portfolio-HugoBlox/project/tribute_page/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Tribute Page&lt;/strong&gt; is a project I completed as part of the FreeCodeCamp Responsive Web Design certification. It focuses on creating a visually appealing page dedicated to honoring a person or a cause.&lt;/p&gt;
+&lt;p&gt;Key features include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Personalized Design&lt;/strong&gt;: A clean, visually engaging design that highlights the person or cause being honored.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Responsive Layout&lt;/strong&gt;: Ensures the page displays properly on all devices, from mobile to desktop.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Content Sections&lt;/strong&gt;: Includes sections like biography, images, and achievements that provide a comprehensive overview.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multimedia&lt;/strong&gt;: Incorporates images and links to enhance the user experience and provide more context.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The page is built using &lt;strong&gt;HTML&lt;/strong&gt; and &lt;strong&gt;CSS&lt;/strong&gt;, with an emphasis on clean design and ensuring that the content is easy to read and navigate.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Product Landing Page</title>
+      <link>http://localhost:1313/Portfolio-HugoBlox/project/productlanding/</link>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Portfolio-HugoBlox/project/productlanding/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Product Landing Page&lt;/strong&gt; is a project I built as part of the FreeCodeCamp Responsive Web Design certification. It focuses on creating a user-friendly and visually appealing landing page for a fictional product.&lt;/p&gt;
+&lt;p&gt;Key features include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Product Description Section&lt;/strong&gt;: Clear and concise information about the product, including features and benefits.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Call-to-Action (CTA)&lt;/strong&gt;: Prominent buttons for user engagement, such as &amp;ldquo;Buy Now&amp;rdquo; or &amp;ldquo;Learn More.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Responsive Layout&lt;/strong&gt;: Designed to work seamlessly across all devices, from mobile to desktop.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contact Form&lt;/strong&gt;: Easy-to-use form for users to inquire about the product or make purchases.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The page is built using &lt;strong&gt;HTML&lt;/strong&gt; and &lt;strong&gt;CSS&lt;/strong&gt;, focusing on a clean design, proper structure, and responsive design principles.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Responsive Portfolio</title>
+      <link>http://localhost:1313/Portfolio-HugoBlox/project/portfolio/</link>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Portfolio-HugoBlox/project/portfolio/</guid>
+      <description>&lt;p&gt;My &lt;strong&gt;Responsive Web Design Portfolio&lt;/strong&gt; is a project I created as part of the FreeCodeCamp Responsive Web Design certification. It showcases my skills and projects in a clean, modern, and fully responsive design.&lt;/p&gt;
+&lt;p&gt;Key features include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Responsive Layout&lt;/strong&gt;: Optimized for all device sizes, from mobile to desktop.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;About Me Section&lt;/strong&gt;: Highlights my background, skills, and passion for web development.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Projects Gallery&lt;/strong&gt;: Displays my work with project descriptions and links.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Contact Section&lt;/strong&gt;: Easy-to-use form for connecting with me.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The portfolio demonstrates my ability to build responsive, user-friendly websites using &lt;strong&gt;HTML&lt;/strong&gt; and &lt;strong&gt;CSS&lt;/strong&gt;, adhering to clean coding practices and excellent design principles.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Survey Form</title>
+      <link>http://localhost:1313/Portfolio-HugoBlox/project/survey_form/</link>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Portfolio-HugoBlox/project/survey_form/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Survey Form&lt;/strong&gt; is a project I completed as part of the FreeCodeCamp Responsive Web Design certification. It focuses on creating a responsive and accessible survey form where users can submit their responses easily.&lt;/p&gt;
+&lt;p&gt;Key features include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Form Fields&lt;/strong&gt;: Multiple types of input fields, such as text, radio buttons, checkboxes, and dropdowns.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clear Instructions&lt;/strong&gt;: Easy-to-understand labels and instructions for users.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Responsive Layout&lt;/strong&gt;: Designed to work seamlessly across devices of all sizes, ensuring a smooth user experience.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Validation&lt;/strong&gt;: Basic client-side form validation to ensure users provide the correct information.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The form is built with &lt;strong&gt;HTML&lt;/strong&gt; and &lt;strong&gt;CSS&lt;/strong&gt;, adhering to clean design principles and focusing on user accessibility.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Technical Documentation Page</title>
+      <link>http://localhost:1313/Portfolio-HugoBlox/project/t_c_p/</link>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Portfolio-HugoBlox/project/t_c_p/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Technical Documentation Page&lt;/strong&gt; is a project I completed as part of the FreeCodeCamp Responsive Web Design certification. It focuses on creating a user-friendly and organized documentation page for a technical subject.&lt;/p&gt;
+&lt;p&gt;Key features include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Table of Contents&lt;/strong&gt;: A navigation bar that allows users to easily jump to different sections of the documentation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Code Examples&lt;/strong&gt;: Clear and readable code snippets displayed in proper syntax highlighting.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Responsive Layout&lt;/strong&gt;: Ensures the page is fully optimized for viewing across a variety of devices, from mobile to desktop.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clear Sectioning&lt;/strong&gt;: Properly structured sections for each topic, making it easy for users to find information.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The page is built using &lt;strong&gt;HTML&lt;/strong&gt; and &lt;strong&gt;CSS&lt;/strong&gt;, with a focus on accessibility, readability, and clear organization.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>FindGithubProfile</title>

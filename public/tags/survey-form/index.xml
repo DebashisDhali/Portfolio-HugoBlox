@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Survey Form | Debashis&#39;s Portfolio</title>
+    <link>http://localhost:1313/Portfolio-HugoBlox/tags/survey-form/</link>
+      <atom:link href="http://localhost:1313/Portfolio-HugoBlox/tags/survey-form/index.xml" rel="self" type="application/rss+xml" />
+    <description>Survey Form</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/Portfolio-HugoBlox/media/icon_hu7729264130191091259.png</url>
+      <title>Survey Form</title>
+      <link>http://localhost:1313/Portfolio-HugoBlox/tags/survey-form/</link>
+    </image>
+    
+    <item>
+      <title>Survey Form</title>
+      <link>http://localhost:1313/Portfolio-HugoBlox/project/survey_form/</link>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/Portfolio-HugoBlox/project/survey_form/</guid>
+      <description>&lt;p&gt;The &lt;strong&gt;Survey Form&lt;/strong&gt; is a project I completed as part of the FreeCodeCamp Responsive Web Design certification. It focuses on creating a responsive and accessible survey form where users can submit their responses easily.&lt;/p&gt;
+&lt;p&gt;Key features include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Form Fields&lt;/strong&gt;: Multiple types of input fields, such as text, radio buttons, checkboxes, and dropdowns.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clear Instructions&lt;/strong&gt;: Easy-to-understand labels and instructions for users.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Responsive Layout&lt;/strong&gt;: Designed to work seamlessly across devices of all sizes, ensuring a smooth user experience.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Validation&lt;/strong&gt;: Basic client-side form validation to ensure users provide the correct information.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The form is built with &lt;strong&gt;HTML&lt;/strong&gt; and &lt;strong&gt;CSS&lt;/strong&gt;, adhering to clean design principles and focusing on user accessibility.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
