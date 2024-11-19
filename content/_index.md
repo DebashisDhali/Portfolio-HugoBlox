@@ -54,17 +54,5 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
 
-  - block: cta-card
-    demo: false
-    content:
-      title: "💡 Let’s Build Something Amazing Together"
-      text: |-
-        I'm always open to collaborations, whether for full-stack projects, IoT innovations, or tackling real-world challenges with tech. Feel free to reach out if you have an idea or project in mind!
-      button:
-        text: Contact Me
-        url: contact/
-    design:
-      card:
-        css_class: "bg-primary-700"
-        css_style: ""
+  
 ---
