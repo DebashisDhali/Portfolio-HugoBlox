@@ -87,10 +87,6 @@ skills:
         description: ''
         percent: 90
         icon: code-bracket
-      - name: Node.js
-        description: ''
-        percent: 50
-        icon: code-bracket
       - name: Git
         description: ''
         percent: 80
@@ -125,20 +121,6 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: "React.js for Beginners"
-    url: https://www.udemy.com/course/react-the-complete-guide-incl-redux/
-    date: '2024-01-01'
-    awarder: Udemy
-    icon: udemy
-    summary: |
-      Completed the full course on React.js, learning the basics and advanced concepts, and now applying it in my personal projects.
-  - title: "JavaScript Algorithms and Data Structures"
-    url: https://www.freecodecamp.org/
-    date: '2024-03-15'
-    awarder: freeCodeCamp
-    icon: freecodecamp
-    summary: |
-      Mastered various algorithms and data structures in JavaScript, solving complex challenges and building problem-solving skills.
   - title: "Responsive Web Design"
     url: https://www.freecodecamp.org/certification/DhaliDeba387/responsive-web-design
     date: '2023-10-01'
@@ -146,6 +128,14 @@ awards:
     icon: freecodecamp
     summary: |
       Earned a certificate in Responsive Web Design, gaining expertise in building modern, user-friendly, and mobile-first websites.
+  - title: "React.js for Beginners"
+    url: https://www.udemy.com/course/react-the-complete-guide-incl-redux/
+    date: '2024-01-01'
+    awarder: Udemy
+    icon: udemy
+    summary: |
+      Completed the full course on React.js, learning the basics and advanced concepts, and now applying it in my personal projects.
+  
 ---
 
 ## About Me
