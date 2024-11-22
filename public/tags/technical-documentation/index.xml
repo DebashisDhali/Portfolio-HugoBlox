@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technical Documentation | Debashis&#39;s Portfolio</title>
-    <link>http://localhost:1313/Portfolio-HugoBlox/tags/technical-documentation/</link>
-      <atom:link href="http://localhost:1313/Portfolio-HugoBlox/tags/technical-documentation/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/technical-documentation/</link>
+      <atom:link href="http://localhost:1313/tags/technical-documentation/index.xml" rel="self" type="application/rss+xml" />
     <description>Technical Documentation</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/Portfolio-HugoBlox/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu2311606027247628435.png</url>
       <title>Technical Documentation</title>
-      <link>http://localhost:1313/Portfolio-HugoBlox/tags/technical-documentation/</link>
+      <link>http://localhost:1313/tags/technical-documentation/</link>
     </image>
     
     <item>
       <title>Technical Documentation Page</title>
-      <link>http://localhost:1313/Portfolio-HugoBlox/project/t_c_p/</link>
+      <link>http://localhost:1313/project/t_c_p/</link>
       <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Portfolio-HugoBlox/project/t_c_p/</guid>
+      <guid>http://localhost:1313/project/t_c_p/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;Technical Documentation Page&lt;/strong&gt; is a project I completed as part of the FreeCodeCamp Responsive Web Design certification. It focuses on creating a user-friendly and organized documentation page for a technical subject.&lt;/p&gt;
 &lt;p&gt;Key features include:&lt;/p&gt;
 &lt;ul&gt;

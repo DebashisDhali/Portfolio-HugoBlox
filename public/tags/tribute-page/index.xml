@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tribute Page | Debashis&#39;s Portfolio</title>
-    <link>http://localhost:1313/Portfolio-HugoBlox/tags/tribute-page/</link>
-      <atom:link href="http://localhost:1313/Portfolio-HugoBlox/tags/tribute-page/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/tribute-page/</link>
+      <atom:link href="http://localhost:1313/tags/tribute-page/index.xml" rel="self" type="application/rss+xml" />
     <description>Tribute Page</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/Portfolio-HugoBlox/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu2311606027247628435.png</url>
       <title>Tribute Page</title>
-      <link>http://localhost:1313/Portfolio-HugoBlox/tags/tribute-page/</link>
+      <link>http://localhost:1313/tags/tribute-page/</link>
     </image>
     
     <item>
       <title>FreeCodeCamp Tribute Page</title>
-      <link>http://localhost:1313/Portfolio-HugoBlox/project/tribute_page/</link>
+      <link>http://localhost:1313/project/tribute_page/</link>
       <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Portfolio-HugoBlox/project/tribute_page/</guid>
+      <guid>http://localhost:1313/project/tribute_page/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;Tribute Page&lt;/strong&gt; is a project I completed as part of the FreeCodeCamp Responsive Web Design certification. It focuses on creating a visually appealing page dedicated to honoring a person or a cause.&lt;/p&gt;
 &lt;p&gt;Key features include:&lt;/p&gt;
 &lt;ul&gt;

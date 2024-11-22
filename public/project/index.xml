@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Debashis&#39;s Portfolio</title>
-    <link>http://localhost:1313/Portfolio-HugoBlox/project/</link>
-      <atom:link href="http://localhost:1313/Portfolio-HugoBlox/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 18 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/Portfolio-HugoBlox/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu2311606027247628435.png</url>
       <title>Projects</title>
-      <link>http://localhost:1313/Portfolio-HugoBlox/project/</link>
+      <link>http://localhost:1313/project/</link>
     </image>
     
     <item>
       <title>FreeCodeCamp Tribute Page</title>
-      <link>http://localhost:1313/Portfolio-HugoBlox/project/tribute_page/</link>
+      <link>http://localhost:1313/project/tribute_page/</link>
       <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Portfolio-HugoBlox/project/tribute_page/</guid>
+      <guid>http://localhost:1313/project/tribute_page/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;Tribute Page&lt;/strong&gt; is a project I completed as part of the FreeCodeCamp Responsive Web Design certification. It focuses on creating a visually appealing page dedicated to honoring a person or a cause.&lt;/p&gt;
 &lt;p&gt;Key features include:&lt;/p&gt;
 &lt;ul&gt;
@@ -30,9 +30,9 @@
     
     <item>
       <title>Product Landing Page</title>
-      <link>http://localhost:1313/Portfolio-HugoBlox/project/productlanding/</link>
+      <link>http://localhost:1313/project/productlanding/</link>
       <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Portfolio-HugoBlox/project/productlanding/</guid>
+      <guid>http://localhost:1313/project/productlanding/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;Product Landing Page&lt;/strong&gt; is a project I built as part of the FreeCodeCamp Responsive Web Design certification. It focuses on creating a user-friendly and visually appealing landing page for a fictional product.&lt;/p&gt;
 &lt;p&gt;Key features include:&lt;/p&gt;
 &lt;ul&gt;
@@ -46,9 +46,9 @@
     
     <item>
       <title>Responsive Portfolio</title>
-      <link>http://localhost:1313/Portfolio-HugoBlox/project/portfolio/</link>
+      <link>http://localhost:1313/project/portfolio/</link>
       <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Portfolio-HugoBlox/project/portfolio/</guid>
+      <guid>http://localhost:1313/project/portfolio/</guid>
       <description>&lt;p&gt;My &lt;strong&gt;Responsive Web Design Portfolio&lt;/strong&gt; is a project I created as part of the FreeCodeCamp Responsive Web Design certification. It showcases my skills and projects in a clean, modern, and fully responsive design.&lt;/p&gt;
 &lt;p&gt;Key features include:&lt;/p&gt;
 &lt;ul&gt;
@@ -62,9 +62,9 @@
     
     <item>
       <title>Survey Form</title>
-      <link>http://localhost:1313/Portfolio-HugoBlox/project/survey_form/</link>
+      <link>http://localhost:1313/project/survey_form/</link>
       <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Portfolio-HugoBlox/project/survey_form/</guid>
+      <guid>http://localhost:1313/project/survey_form/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;Survey Form&lt;/strong&gt; is a project I completed as part of the FreeCodeCamp Responsive Web Design certification. It focuses on creating a responsive and accessible survey form where users can submit their responses easily.&lt;/p&gt;
 &lt;p&gt;Key features include:&lt;/p&gt;
 &lt;ul&gt;
@@ -78,9 +78,9 @@
     
     <item>
       <title>Technical Documentation Page</title>
-      <link>http://localhost:1313/Portfolio-HugoBlox/project/t_c_p/</link>
+      <link>http://localhost:1313/project/t_c_p/</link>
       <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Portfolio-HugoBlox/project/t_c_p/</guid>
+      <guid>http://localhost:1313/project/t_c_p/</guid>
       <description>&lt;p&gt;The &lt;strong&gt;Technical Documentation Page&lt;/strong&gt; is a project I completed as part of the FreeCodeCamp Responsive Web Design certification. It focuses on creating a user-friendly and organized documentation page for a technical subject.&lt;/p&gt;
 &lt;p&gt;Key features include:&lt;/p&gt;
 &lt;ul&gt;
@@ -94,25 +94,25 @@
     
     <item>
       <title>Soulemate Clock</title>
-      <link>http://localhost:1313/Portfolio-HugoBlox/project/pandas/</link>
+      <link>http://localhost:1313/project/pandas/</link>
       <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Portfolio-HugoBlox/project/pandas/</guid>
+      <guid>http://localhost:1313/project/pandas/</guid>
       <description>&lt;p&gt;An analog clock app designed to provide the perfect time with a clean, sleek interface. Built with a focus on user experience and design, Soulemate Clock ensures precise timekeeping while offering a visually appealing and intuitive interface.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>FindGithubProfile</title>
-      <link>http://localhost:1313/Portfolio-HugoBlox/project/pytorch/</link>
+      <link>http://localhost:1313/project/pytorch/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Portfolio-HugoBlox/project/pytorch/</guid>
+      <guid>http://localhost:1313/project/pytorch/</guid>
       <description>&lt;p&gt;My project lets users search for any GitHub account by entering a username in the search bar. It fetches data from the GitHub API, displaying key info like the profile picture, name, bio, and repositories in a card. A &amp;lsquo;View Profile&amp;rsquo; button allows users to quickly access the full GitHub profile.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>HTML and CSS Projects</title>
-      <link>http://localhost:1313/Portfolio-HugoBlox/project/scikit/</link>
+      <link>http://localhost:1313/project/scikit/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/Portfolio-HugoBlox/project/scikit/</guid>
+      <guid>http://localhost:1313/project/scikit/</guid>
       <description>&lt;p&gt;This repository showcases 10 unique projects developed using HTML and CSS. Each project highlights different aspects of frontend design and layout, ranging from responsive web pages to custom UI components.&lt;/p&gt;</description>
     </item>
     
